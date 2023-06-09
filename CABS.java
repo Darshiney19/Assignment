@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
-class Codechef
+class Cabs
 {
     public static void main (String[] args)
     {
